@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+/* Ini adalah pengganti content array di versi lama */
+@source "../**/*.blade.php";
+@source "../**/*.js";
+@source "../**/*.vue";

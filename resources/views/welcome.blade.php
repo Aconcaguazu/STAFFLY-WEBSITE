@@ -23,7 +23,7 @@
     <main class="relative pt-32 pb-20 lg:pt-48 lg:pb-32 overflow-hidden">
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative text-center">
             <h1 class="text-5xl md:text-6xl font-extrabold tracking-tight text-slate-900 mb-6 leading-tight">
-                WEI BISA COI, <br class="hidden md:block">
+                Punya Gweh, <br class="hidden md:block">
                 <span class="text-transparent bg-clip-text bg-gradient-to-r from-blue-600 to-indigo-500">Bebas Titip Absen.</span>
             </h1>
             <p class="mt-4 text-lg md:text-xl text-slate-600 max-w-2xl mx-auto mb-10 leading-relaxed">
